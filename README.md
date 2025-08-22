@@ -48,8 +48,8 @@ A complete authentication and authorization system built with Express.js, Sequel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/express-auth-system.git
-   cd express-auth-system
+   git clone https://github.com/nati3514/AfroSmart.git
+   cd afrosmart
    ```
 
 2. Install dependencies:
@@ -73,7 +73,7 @@ A complete authentication and authorization system built with Express.js, Sequel
 1. Make sure PostgreSQL is running
 2. Create a new database:
    ```sql
-   CREATE DATABASE auth_system_dev;
+   CREATE DATABASE afrosmart;
    ```
 3. Run migrations:
    ```bash
